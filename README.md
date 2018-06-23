@@ -16,6 +16,12 @@ This is the case discussed in the video referenced above. The simulation shows t
   <img width="500" src="docs/demo-2vendors.gif">
 </p>
 
+The cited video above explains the concept perfectly. What you saw in the simulation is a Nash equilibrium, where vendors can't improve their positions without deviating from their current strategy
+
+<p align="center">
+  <img width="500" src="docs/video-intro.gif">
+</p>
+
 ### Four vendors demo
 
 With more vendors things get more interesting. With exactly 4 vendors, they tend to pair and split the area evenly.
